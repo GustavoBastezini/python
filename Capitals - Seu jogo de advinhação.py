@@ -229,7 +229,7 @@ def jogar():
 
                     if continuidade == 2:
                         print(" ")
-                    break#al#  #
+                    break
 
     fim_de_jogo()
 
